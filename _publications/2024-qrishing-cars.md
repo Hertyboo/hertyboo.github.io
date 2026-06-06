@@ -1,8 +1,7 @@
 ---
-
 title: "QRishing: Understanding the Emerging Threat of QR Code Phishing Attacks"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/qrishing-cars
 date: 2024-11-01
 venue: "2024 Cybersecurity and Resilience Symposium (CARS)"
