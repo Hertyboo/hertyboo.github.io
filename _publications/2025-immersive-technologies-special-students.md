@@ -1,6 +1,7 @@
 ---
 title: "Immersive Technologies for Special Students in Higher Education: A Systematic Literature Review"
 collection: publications
+category: manuscripts
 permalink: /publication/immersive-technologies-special-students
 date: 2025-01-01
 venue: "Journal of Higher Education Theory and Practice"
