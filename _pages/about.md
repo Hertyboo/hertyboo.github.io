@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am Henrietta Boowuo, a PhD Candidate at Purdue University whose research examines the ethical, social, and educational implications of artificial intelligence.
 
 My work focuses on AI Ethics and Governance, Human-Centered AI, and Educational Technology, with particular interests in fairness, accountability, transparency, accessibility, and the responsible design of AI systems. I investigate how AI technologies affect users in real-world contexts, including higher education, digital learning environments, and underrepresented communities.
