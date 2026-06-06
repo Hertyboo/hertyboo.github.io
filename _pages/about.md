@@ -52,6 +52,8 @@ My current research explores fairness in Automatic Speech Recognition (ASR) syst
 * **September 2023** – Awarded the **Computer and Information Technology Travel Grant**, Purdue University.
 
 * **September 2023** – Awarded the **Dean's Graduate Student Travel Grant**, Purdue University.
+  
+* **August 2023** – Appointed **Course Instructor for CNIT 13600**: Personal Computing Technology and Applications at Purdue University.
 
 * **May 2023** – Served as a reviewer for the IEEE Frontiers in Education (FIE) Conference.
 
