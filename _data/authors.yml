@@ -1,20 +1,18 @@
 # Authors
 
-# Biographic information
-  avatar           : "https://hertyboo.github.io/images/herty.png"
-  name             : "Henrietta Boowuo"
-  pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in AI Ethics"
-  location         : #"Earth"
-  employer         : "Purdue University"
-  uri              : # URL
-  email            : #"none@example.org" 
-# Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=vJRcy7AAAAAJ&hl=en"
-  orcid            : #"https://orcid.org/yourorcidurl"
-  linkedin         : "https://www.linkedin.com/authwall?trk=bf&trkInfo=AQE2ogWW3zI_6AAAAZ6aJ0OIPzxjIRhDOZ4scFESIsnvnQhVUSUz28bZUoJ1N_2mUZBMRB5cwstRo_4KGONudgN4kQsQS8zI9cXJI_f4b7BR6AzTZ_9PPGbbM2fBaE7ti30gXnQ=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhenrietta-boowuo-18698020a%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_ios"
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
+Name Name:
+  name        : "Name Name"
+  uri         : "https://name.com"
+  email       : "name@name.com"
+  bio         : "This is the first name."
+  avatar      : "bio-photo-2.jpg"
+  twitter     : "name"
+  google_plus : "Name"
+
+Name2 Name2:
+  name        : "Name2 Name2"
+  email       : "name2@name2.com"
+  bio         : "I ordered what?"
+  avatar      : "bio-photo.jpg"
+  twitter     : "name2"
+  google_plus : "Name"
