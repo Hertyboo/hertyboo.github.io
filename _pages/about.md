@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-A PhD Candidate at Purdue University (School of Applied and Creative Computing), whose research examines the ethical, social, and educational implications of artificial intelligence.
+A Ph.D. Candidate at Purdue University (School of Applied and Creative Computing), whose research examines the ethical, social, and educational implications of artificial intelligence.
 
 My work focuses on AI Ethics and Governance, Human-Centered AI, and Educational Technology, with particular interests in fairness, accountability, transparency, accessibility, and the responsible design of AI systems. I investigate how AI technologies affect users in real-world contexts, including higher education, digital learning environments, and underrepresented communities.
 
