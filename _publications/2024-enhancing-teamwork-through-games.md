@@ -2,7 +2,7 @@
 
 title: "Enhancing Teamwork Through Games: A Systematic Literature Review"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/enhancing-teamwork-through-games
 date: 2024-01-01
 venue: "Systematic Literature Review"
