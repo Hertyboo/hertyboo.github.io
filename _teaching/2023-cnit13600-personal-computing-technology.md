@@ -1,4 +1,4 @@
-2023-cnit13600-pc-tech-applications.md
+
 ---
 
 title: "CNIT 13600: Personal Computing Technology and Applications"
