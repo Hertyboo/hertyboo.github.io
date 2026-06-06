@@ -1,6 +1,4 @@
-
 ---
-
 title: "CNIT 13600: Personal Computing Technology and Applications"
 collection: teaching
 type: "Course Instructor"
