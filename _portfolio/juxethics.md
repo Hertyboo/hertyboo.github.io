@@ -1,6 +1,6 @@
 ---
 title: "JuxEthics: AI Ethics Readiness Assessment Tool"
-excerpt: "A Web-based tool for assessing responsible AI signals in public company disclosures."
+excerpt: "A Web-based tool for assessing responsible AI signals in public company disclosures<br/><img src='/images/jelogo.jpg'>"
 collection: portfolio
 ---
 
