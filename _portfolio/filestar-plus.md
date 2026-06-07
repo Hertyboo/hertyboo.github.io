@@ -1,10 +1,10 @@
 
 ---
 title: ""FileTSAR+ Elastic Network Forensics for Law Enforcement"
-excerpt: "Graduate Research Assistant on a National Institute of Justice-funded digital forensics project supporting law enforcement investigations."
+excerpt: "Graduate Research Assistant on a National Institute of Justice-funded digital forensics project supporting law enforcement investigations.<br/><img src='/images/filestar-plus.jpg'>"
 collection: portfolio
 ---
-![FileTSAR+](/images/filestar-plus.jpg)
+
 
 ## Overview
 
