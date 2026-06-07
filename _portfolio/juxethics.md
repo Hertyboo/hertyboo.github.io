@@ -10,7 +10,7 @@ collection: portfolio
 
 ## My Role
 
-Co-Founder 
+**Co-Founder** 
 
 ## Status
 
