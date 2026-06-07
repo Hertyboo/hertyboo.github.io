@@ -1,10 +1,8 @@
 
 ---
-
 title: "FileTSAR+: Elastic Network Forensics for Law Enforcement"
 excerpt: "Graduate Research Assistant on a National Institute of Justice-funded digital forensics project supporting law enforcement investigations.<br/><img src='/images/filetsar-plus.jpg'>"
 collection: portfolio
-
 ---
 
 
