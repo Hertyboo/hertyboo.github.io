@@ -29,11 +29,11 @@ https://nij.ojp.gov/funding/awards/2020-dq-bx-0008
 
 ## News & Media Coverage
 
-* Purdue University News: *High-tech toolkit to analyze digital evidence made more efficient and budget-friendly for law enforcement agencies*
-  https://www.purdue.edu/newsroom/2023/Q2/high-tech-toolkit-to-analyze-digital-evidence-made-more-efficient-and-budget-friendly-for-law-enforcement-agencies/
+### Purdue University News
+[High-tech toolkit to analyze digital evidence made more efficient and budget-friendly for law enforcement agencies](https://www.purdue.edu/newsroom/2023/Q2/high-tech-toolkit-to-analyze-digital-evidence-made-more-efficient-and-budget-friendly-for-law-enforcement-agencies/)
 
-* Purdue Polytechnic Institute News: *Polytechnic faculty build sleeker, faster crime-fighting tool*
-  https://polytechnic.purdue.edu/newsroom/polytechnic-faculty-build-sleeker-faster-crime-fighting-tool
+### Purdue Polytechnic Institute
+[Polytechnic faculty build sleeker, faster crime-fighting tool](https://polytechnic.purdue.edu/newsroom/polytechnic-faculty-build-sleeker-faster-crime-fighting-tool)
 
 ## Impact
 
