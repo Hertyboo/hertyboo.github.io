@@ -8,7 +8,7 @@ collection: portfolio
 
 **JuxEthics** is a web-based AI ethics readiness assessment tool that analyzes publicly available company disclosures to identify signals of responsible AI practice. The tool aims to generate an ethics readiness profile that helps evaluate how organizations communicate commitments to AI governance, accountability, transparency, fairness, privacy, safety, and human-centered design.
 
-##My Role
+## My Role
 
 Co-Founder 
 
