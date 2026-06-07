@@ -1,6 +1,6 @@
 
 ---
-title: "FileTSAR+ Elastic Network Forensics for Law Enforcement"
+title: "FileTSAR+: Elastic Network Forensics for Law Enforcement"
 excerpt: "NIJ-funded digital forensics project supporting law enforcement investigations<br/><img src='/images/filestar-plus.jpg'>"
 collection: portfolio
 ---
