@@ -5,7 +5,6 @@ excerpt: "NIJ-funded digital forensics project supporting law enforcement invest
 collection: portfolio
 ---
 
-
 ## Overview
 
 File Toolkit for Selective Analysis & Reconstruction (FileTSAR+ ) is an elastic network forensic toolkit developed at Purdue University to assist law enforcement agencies in capturing, analyzing, and reconstructing digital evidence from large-scale computer networks. The project was designed as a streamlined and cost-effective version of the original FileTSAR system, enabling advanced digital forensic capabilities for agencies with varying technical and resource constraints.
