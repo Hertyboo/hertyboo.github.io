@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Awards"
+title: "Awards & Recognition"
 permalink: /awards/
 author_profile: true
 ---
-
-## Awards & Recognition
 
 ### 2025
 - **OGSPS Excellence in Teaching Award**, Purdue University
