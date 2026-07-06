@@ -20,12 +20,13 @@ author_profile: true
 ## Grants & Travel Awards
 
 ### 2024
+
 - Dean's Graduate Student Travel Grant, Purdue University
 
+
 ### 2023
-- Conference Travel Sponsorship, Purdue University (FIE Conference)
-- Dean's Graduate Student Travel Grant, Purdue University
 - Computer and Information Technology Travel Grant, Purdue University
+- Dean's Graduate Student Travel Grant, Purdue University
 
 ---
 
