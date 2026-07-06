@@ -1,7 +1,7 @@
 ---
 
 title: "Purdue OGSPS Excellence in Teaching Award"
-collection: awards
+collection: teaching
 type: "Teaching Recognition"
 permalink: /teaching/ogsps-excellence-award
 venue: "Purdue University"
