@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am **Henrietta Boowuo**, a Ph.D. Candidate at Purdue University (School of Applied and Creative Computing), whose research focuses on **AI Ethics and Governance**, **Human-Centered AI**, and **Educational Technology**. My work examines fairness, accountability, accessibility, and the societal impact of AI systems, particularly in higher education and digital learning environments. 
+I am **Henrietta Boowuo,** a Ph.D. Candidate in Computer and Information Technology at Purdue University’s School of Applied and Creative Computing. My research lies at the intersection of Artificial Intelligence (AI), education, accessibility, and society, with a focus on **AI Ethics and Governance,** **Human-Centered AI,** and **Educational Technology.**
+My work explores issues of fairness, accountability, accessibility, equity, and inclusion in AI systems, particularly within higher education and digital learning environments. I am interested in how emerging technologies shape teaching, learning, and participation, and how responsible AI design and governance can promote equitable outcomes for diverse populations.
+Through my research, teaching, and service, I seek to advance ethical, inclusive, and human-centered approaches to technology that foster meaningful participation, accessible learning experiences, and positive societal impact.
+ 
 
 ## Recent News & Updates
 
