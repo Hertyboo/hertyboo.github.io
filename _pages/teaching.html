@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+
 ## Teaching Philosophy
 
 My teaching philosophy is grounded in the belief that meaningful learning occurs when students feel supported, challenged, and empowered to connect course concepts to real-world problems. I strive to create inclusive, accessible, and student-centered learning environments that recognize the diverse experiences, backgrounds, and learning needs students bring to the classroom.
@@ -20,8 +20,3 @@ Through inclusive course design, accessible learning practices, and student-cent
 
 
 
-{% for post in site.teaching reversed %}
-  {% unless post.title contains "CNIT 13600" %}
-    {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
