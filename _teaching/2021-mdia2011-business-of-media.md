@@ -1,6 +1,6 @@
 ---
 title: "Teaching Philosophy"
-collection: ""
+collection: "philosophy"
 type: ""
 permalink: ""
 venue: ""
