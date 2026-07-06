@@ -16,16 +16,19 @@ To support diverse learners, I developed detailed course guides, technology supp
 
 Through inclusive course design, accessible learning practices, and student-centered instruction, I seek to foster equitable participation, support student success, and prepare learners to become thoughtful professionals, responsible technology users, and lifelong learners.
 
-## Courses
-## CNIT 13600: Personal Computing Technology and Applications
+## Selected Course
 
-CNIT 13600 is a foundational undergraduate computing course that introduces students to personal computing technologies, digital literacy, information systems, and productivity applications. The course combines conceptual understanding of information technology with hands-on experience using Microsoft Office applications, including Word, Excel, PowerPoint, and Access. Students also explore topics such as digital ethics, privacy, cybersecurity, artificial intelligence, and responsible technology use.
-As Instructor of Record, I have taught more than 1000 undergraduate students across multiple semesters in large-enrollment online sections ranging from approximately 250 to 370 students. The course serves students from a wide range of disciplines and academic backgrounds, requiring instructional approaches that support varying levels of technical experience and digital literacy.
+### CNIT 13600: Personal Computing Technology and Applications
 
-  - [Download Course_Evaluation](/files/course_evaluation.pdf)
-  - [Download Course_Syllabus](/files/course_syllabus.pdf)
+CNIT 13600 is a foundational undergraduate computing course...
 
+- [Download Course Evaluation](/files/course_evaluation.pdf)
+- [Download Course Syllabus](/files/course_syllabus.pdf)
+
+## Additional Teaching Experience
 
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  {% unless post.title contains "CNIT 13600" %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
