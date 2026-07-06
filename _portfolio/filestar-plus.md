@@ -8,9 +8,16 @@ collection: portfolio
 
 File Toolkit for Selective Analysis & Reconstruction (FileTSAR+ ) is an elastic network forensic toolkit developed at Purdue University to assist law enforcement agencies in capturing, analyzing, and reconstructing digital evidence from large-scale computer networks. The project was designed as a streamlined and cost-effective version of the original FileTSAR system, enabling advanced digital forensic capabilities for agencies with varying technical and resource constraints.
 
-## My Role
+## My Role as a Research Assistant
 
-Served as a **Graduate Research Assistant**.
+FileTSAR+ is a next-generation digital forensic toolkit developed to help law enforcement agencies efficiently analyze, reconstruct, and investigate digital evidence collected from large-scale network environments. Building upon the original FileTSAR platform, the project improved scalability, usability, deployment, and operational efficiency, making advanced forensic capabilities more accessible to practitioners.
+My primary contributions focused on developing end-user documentation, including the installation guide and user manual. Working closely with the development team, I translated complex technical processes into clear, user-centered resources that supported deployment, onboarding, and effective use of the system. These materials played an important role in reducing barriers to adoption and enabling investigators to successfully interact with the toolkit.
+This experience contributed to my broader research interests in Human-Centered AI and technology governance by highlighting the importance of designing technologies that are not only technically effective but also understandable, accessible, and usable by diverse stakeholders. The project reinforced my interest in how documentation, training, and user experience influence technology adoption and ultimately shape the real-world impact of emerging technologies.
+.
+## Impact
+
+FileTSAR+ was developed to support law enforcement agencies in the efficient collection, analysis, reconstruction, and preservation of digital evidence from large-scale network environments. By improving the scalability, usability, and deployment efficiency of the original FileTSAR platform, the project reduced technical and cost barriers associated with digital forensic investigations, making advanced forensic capabilities more accessible to practitioners. Supported by the U.S. Department of Justice's National Institute of Justice (NIJ), the project contributes to broader efforts in cybersecurity, digital investigations, and evidence-based criminal justice practices and has been disseminated through national forensic science and cybersecurity venues.
+
 
 ## Funding
 
@@ -35,6 +42,4 @@ https://nij.ojp.gov/funding/awards/2020-dq-bx-0008
 ### Purdue Polytechnic Institute
 [Polytechnic faculty build sleeker, faster crime-fighting tool](https://polytechnic.purdue.edu/newsroom/polytechnic-faculty-build-sleeker-faster-crime-fighting-tool)
 
-## Impact
 
-FileTSAR+ advances digital forensics capabilities by enabling law enforcement agencies to capture, reconstruct, and preserve digital evidence from network environments while reducing deployment costs and technical barriers. The project contributes to the broader goals of cybersecurity, digital investigations, and evidence-based criminal justice practices.
