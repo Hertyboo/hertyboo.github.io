@@ -22,9 +22,9 @@ JuxEthics directly supports my broader research agenda in AI Ethics and Governan
 This project is currently **in development.**
 
 ## Intended Users
-Organizations
-Policymakers
-Researchers
-Auditors
-Compliance teams
+Organizations,
+Policymakers,
+Researchers,
+Auditors,
+Compliance teams.
 
