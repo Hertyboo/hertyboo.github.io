@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-## You can download a copy of my CV here:
+## Curriculum Vitae
+
 Please contact me for a copy of my current CV.
+
+<!--
 ## [Download CV](/files/Henrietta_Boowuo_CV.pdf)
+-->
