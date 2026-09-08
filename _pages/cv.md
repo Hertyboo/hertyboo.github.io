@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Curriculum Vitae
-
 Please contact me for a copy of my current CV.
 
 <!--
