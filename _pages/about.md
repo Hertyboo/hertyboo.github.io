@@ -13,7 +13,8 @@ Through my research, teaching, and service, I seek to advance ethical, inclusive
  
 
 ## Recent News & Updates
-
+* **July 2026** – Serving as a Judge for Purdue Summer Undergraduate Research Symposium.
+  
 * **July 2026** – Serving as a PC member and a reviewer for the AAAI/ACM Conference on AI, Ethics, and Society (AIES).
 
 * **June 2026** – Serving as a reviewer for the ACM SIGCSE Technical Symposium on Computer Science Education.
