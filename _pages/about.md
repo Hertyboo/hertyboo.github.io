@@ -11,7 +11,8 @@ I am **Henrietta Boowuo**, a Ph.D. Candidate in Computer and Information Technol
  
 
 ## Recent News & Updates
-* **October 2026** –  Presented “The Hidden Tax of AI Safety: Residual Risk Redistribution in Automated Governance” at the AAAI/ACM Conference on AI, Ethics, and Society (AIES)
+
+* **October 2026** –  Presented *The Hidden Tax of AI Safety: Residual Risk Redistribution in Automated Governance* at the AAAI/ACM Conference on AI, Ethics, and Society (AIES).
 
 * **July 2026** – Serving as a Judge for Purdue Summer Undergraduate Research Symposium.
   
