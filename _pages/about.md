@@ -12,55 +12,66 @@ I am **Henrietta Boowuo**, a Ph.D. Candidate in Computer and Information Technol
 
 ## Recent News & Updates
 
-* **October 2026** –  Presented *The Hidden Tax of AI Safety: Residual Risk Redistribution in Automated Governance* at the AAAI/ACM Conference on AI, Ethics, and Society (AIES).
+* **Oct 2026** | <span style="background-color: #e8f5e9; color: #1b5e20; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Talk</span>  
+  Presented *"The Hidden Tax of AI Safety: Residual Risk Redistribution in Automated Governance"* at **AIES 2026**.
 
-* **July 2026** – Serving as a Judge for Purdue Summer Undergraduate Research Symposium.
-  
-* **July 2026** – Serving as a PC member and a reviewer for the AAAI/ACM Conference on AI, Ethics, and Society (AIES).
+* **Jul 2026** | <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Service</span>  
+  Served as a Judge for the **Purdue Summer Undergraduate Research Symposium**.
 
-* **June 2026** – Serving as a reviewer for the ACM SIGCSE Technical Symposium on Computer Science Education.
+* **Jul 2026** | <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Service</span>  
+  Served as a PC Member & Reviewer for the **AAAI/ACM Conference on AI, Ethics, and Society (AIES)**.
 
-* **May 2026** – Submitted a research paper to the ACM SIGCSE Technical Symposium on Computer Science Education.
+* **Jun 2026** | <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Service</span>  
+  Served as a Reviewer for the **ACM SIGCSE Technical Symposium on Computer Science Education**.
 
-* **April 2026** – Submitted a research paper to the AAAI/ACM Conference on AI, Ethics, and Society (AIES).
+* **May 2026** | <span style="background-color: #f3e5f5; color: #4a148c; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Paper Submission</span>  
+  Submitted research on CS Education to **ACM SIGCSE 2026**.
 
-* **April 2026** – Presented *Automatic Speech Recognition (ASR) Fairness: Fighting Accent Bias in Online Teaching* at the Purdue University Data Lab Research Presentation Series.
+* **Apr 2026** | <span style="background-color: #f3e5f5; color: #4a148c; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Paper Submission</span>  
+  Submitted research paper to **AAAI/ACM AIES 2026**.
 
-* **July 2025** – Published *Big Data Analytics for Cardiovascular Risk Prediction: Insights into Feature Importance* in **BMC Proceedings: Proceedings of the 6th National Big Data Health Science Conference**.
-  [Publication](https://doi.org/10.1186/s12919-025-00328-2)
+* **Apr 2026** | <span style="background-color: #e8f5e9; color: #1b5e20; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Talk</span>  
+  Presented *"Automatic Speech Recognition (ASR) Fairness: Fighting Accent Bias in Online Teaching"* at the **Purdue Data Lab Research Series**.
 
-* **May 2025** – Published *Immersive Technologies for Special Students in Higher Education: A Systematic Literature Review* in the *Journal of Higher Education Theory and Practice*.
-  [Article](https://articlegateway.com/index.php/JHETP/article/view/7634)
+---
 
-* **April 2025** – Received the **Purdue University OGSPS Excellence in Teaching Award**, the highest teaching honor awarded to graduate teaching assistants at Purdue University.
-  [Award Information](https://www.purdue.edu/academics/ogsps/professional-development/ogsps-awards/ogsps-excellence-in-teaching-award/) | [Award Recipients](https://www.purdue.edu/academics/ogsps/professional-development/wp-content/uploads/sites/4/2025/11/Award-Recipients-Excellence-in-Teaching.pdf)
+* **Jul 2025** | <span style="background-color: #e3f2fd; color: #0d47a1; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Publication</span>  
+  Published *"Big Data Analytics for Cardiovascular Risk Prediction: Insights into Feature Importance"* in **BMC Proceedings**. [[Publication](https://doi.org/10.1186/s12919-025-00328-2)]
 
-* **January 2025** – Presented research at the International Conference on Education, Honolulu, Hawaii.
+* **May 2025** | <span style="background-color: #e3f2fd; color: #0d47a1; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Publication</span>  
+  Published *"Immersive Technologies for Special Students in Higher Education: A Systematic Literature Review"* in **JHETP**. [[Article](https://articlegateway.com/index.php/JHETP/article/view/7634)]
 
-* **December 2024** – Served as a reviewer for the IEEE EDUCON 2025 Conference.
+* **Apr 2025** | <span style="background-color: #fffde7; color: #f57f17; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Award</span>  
+  Received the **Purdue OGSPS Excellence in Teaching Award** (highest GTA honor at Purdue). [[Info](https://www.purdue.edu/academics/ogsps/professional-development/ogsps-awards/ogsps-excellence-in-teaching-award/) | [Recipients](https://www.purdue.edu/academics/ogsps/professional-development/wp-content/uploads/sites/4/2025/11/Award-Recipients-Excellence-in-Teaching.pdf)]
 
-* **December 2024** – Published a conference paper in IEEE Xplore examining Ransomware-as-a-Service and emerging cybersecurity threats.
-  [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10778711)
+* **Jan 2025** | <span style="background-color: #e8f5e9; color: #1b5e20; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Talk</span>  
+  Presented research at the **International Conference on Education** (*Honolulu, Hawaii*).
 
-* **October 2024** – Published a conference paper in IEEE Xplore examining QR code phishing (QRishing) attacks.
-  [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10778789)
+---
 
-* **July 2024** – Awarded the **Dean's Graduate Student Travel Grant**, Purdue University.
+* **Dec 2024** | <span style="background-color: #e3f2fd; color: #0d47a1; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Publication</span>  
+  Published conference paper examining *Ransomware-as-a-Service and Emerging Cybersecurity Threats* in **IEEE Xplore**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10778711)]
 
-* **January 2024** – Published a conference paper indexed in IEEE Xplore.
-  [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10343284)
+* **Oct 2024** | <span style="background-color: #e3f2fd; color: #0d47a1; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Publication</span>  
+  Published conference paper examining *QR Code Phishing (QRishing) Attacks* in **IEEE Xplore**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10778789)]
 
-* **October 2023** – Presented research at the IEEE Frontiers in Education (FIE) Conference, College Station, Texas.
+* **Jul 2024** | <span style="background-color: #fffde7; color: #f57f17; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Award</span>  
+  Awarded the **Dean's Graduate Student Travel Grant**, Purdue University.
 
-* **October 2023** – Received a **Conference Travel Sponsorship** from the Department of Computer and Information Technology, Purdue University, to attend the IEEE Frontiers in Education (FIE) Conference.
+* **Jan 2024** | <span style="background-color: #e3f2fd; color: #0d47a1; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Publication</span>  
+  Published conference paper indexed in **IEEE Xplore**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10343284)]
 
-* **September 2023** – Awarded the **Computer and Information Technology Travel Grant**, Purdue University.
+---
 
-* **September 2023** – Awarded the **Dean's Graduate Student Travel Grant**, Purdue University.
-  
-* **August 2023** – Appointed **Course Instructor for CNIT 13600**: Personal Computing Technology and Applications at Purdue University.
+* **Oct 2023** | <span style="background-color: #e8f5e9; color: #1b5e20; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Talk</span>  
+  Presented research at the **IEEE Frontiers in Education (FIE) Conference** (*College Station, TX*).
 
-* **May 2023** – Served as a reviewer for the IEEE Frontiers in Education (FIE) Conference.
+* **Oct 2023** | <span style="background-color: #fffde7; color: #f57f17; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Grant</span>  
+  Received **CIT Conference Travel Sponsorship** to attend IEEE FIE.
 
-* **February 2023** – Submitted a research paper to the IEEE Frontiers in Education (FIE) Conference.
+* **Sep 2023** | <span style="background-color: #fffde7; color: #f57f17; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Grant</span>  
+  Awarded **CIT Travel Grant** & **Dean's Graduate Student Travel Grant**, Purdue University.
+
+* **Aug 2023** | <span style="background-color: #efebe9; color: #3e2723; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Teaching</span>  
+  Appointed **Course Instructor for CNIT 13600** (*Personal Computing Technology and Applications*) at Purdue University.
 
