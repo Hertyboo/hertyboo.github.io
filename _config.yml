@@ -23,7 +23,7 @@ repository               : "hertyboo/hertyboo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://hertyboo.github.io/images/herty.png"
+  avatar           : "https://hertyboo.github.io/images/herty3.png"
   name             : "Henrietta Boowuo"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Computer & Information Technology"
