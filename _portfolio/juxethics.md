@@ -1,12 +1,13 @@
 ---
-title: "JuxEthics: AI Ethics Readiness Assessment Tool"
-excerpt: "A Web-based tool for assessing responsible AI signals in public company disclosures<br/><img src='/images/juxethics.png'>"
+title: "JuxEthics: AI Ethics & Governance Assessment Tool"
+excerpt: "A web-based tool for evaluating organizational public disclosures on responsible AI governance<br/><img src='/images/juxethics.png'>"
 collection: portfolio
 ---
 
 ## Overview
 
-**JuxEthics** is a web-based AI ethics readiness assessment tool designed to evaluate how organizations communicate their commitments to responsible AI. The platform analyzes publicly available corporate disclosures, policies, reports, and governance statements to identify evidence of AI governance practices related to transparency, accountability, fairness, privacy, safety, human oversight, and human-centered design. Using these signals, JuxEthics generates an ethics readiness profile that helps organizations, researchers, policymakers, and other stakeholders better understand organizational preparedness for responsible AI adoption and governance.
+**JuxEthics** is a web-based AI Ethics and Governance Assessment Tool that analyzes publicly available organizational disclosures across eight dimensions of responsible AI. It generates dimension-level scores, an overall assessment score, and disclosure classifications, supported by interactive dashboards, comparative assessments, and downloadable reports. The tool serves a dual purpose: **enabling organizations to assess their own publicly disclosed AI governance commitments and allowing external stakeholders to independently evaluate and compare organizational disclosures**. It supports the identification of disclosure gaps, informed decision-making, and research on AI governance transparency and accountability. Assessments are based on publicly available evidence rather than independently verified internal governance practices or regulatory compliance.
+
 
 ## My Role as a Co-Founder
 
@@ -26,5 +27,6 @@ Organizations,
 Policymakers,
 Researchers,
 Auditors,
-Compliance teams.
+Compliance teams,
+Public.
 
