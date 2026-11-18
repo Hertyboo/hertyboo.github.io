@@ -11,6 +11,8 @@ I am **Henrietta Boowuo**, a Ph.D. Candidate in Computer and Information Technol
  
 
 ## Recent News & Updates
+* **Nov 2026** | <span style="background-color: #fff3e0; color: #e65100; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Service</span>  
+  Served as a Judge for the **Purdue Fall Undergraduate Research Expo**.
 
 * **Oct 2026** | <span style="background-color: #e8f5e9; color: #1b5e20; padding: 2px 8px; border-radius: 4px; font-size: 0.85em;">Talk</span>  
   Presented *"The Hidden Tax of AI Safety: Residual Risk Redistribution in Automated Governance"* at **AIES 2026**.
