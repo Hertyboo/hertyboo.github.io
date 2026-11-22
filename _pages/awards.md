@@ -15,7 +15,7 @@ author_profile: true
 <img src="/images/ogspss.jpg" width="650">
 </p>
 
-- **OGSPS Excellence in Teaching Award, Purdue University**
+- **OGSPS Excellence in Teaching Award,** Purdue University
 - Best Graduate Teaching Assistant - Purdue Polytechnic Institute Nominee                             
 ---
 
